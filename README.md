@@ -1,3 +1,3 @@
 # learn.demo
 this is my first repository
-Author Ronin
+Author -- Ronin
